@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GradeViewer</string>
+    <string name="show_my_grades">SHOW MY GRADES</string>
+    <string name="welcome_to_grade_viewer">Welcome to Grade Viewer !</string>
+    <string name="textview">TextView</string>
+    <string name="click_the_button_below_to_view_your_grades">Click the button below to view your grades.</string>
+    <string name="appillustration">appIllustration</string>
+    <string name="front_image">front_image</string>
+    <string name="todo">TODO</string>
+    <string name="avatars_front_page">avatars_front_page</string>
+    <string name="font_page_img">font_page_img</string>
+    <string name="concordia_logo">concordia_logo</string>
+    <string name="page_2">PAGE 2</string>
+    <string name="hello">Hello</string>
+</resources>
